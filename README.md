@@ -7,7 +7,7 @@
  "passion": "Full-stack web development",
  "favorite_stack": "VILT"
 }
-``
+```
 
 
 ### I have knowledge within:
