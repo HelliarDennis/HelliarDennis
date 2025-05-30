@@ -1,16 +1,29 @@
-## Hi there 👋
+# <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Hello, visitor!
 
-<!--
-**HelliarDennis/HelliarDennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+ "name": "Dennis",
+ "age": 28,
+ "passion": "Full-stack web development",
+ "favorite_stack": "VILT"
+}
 
-Here are some ideas to get you started:
+### I have knowledge within:
+- Laravel
+- Vue.js
+- Inertia.js
+- TailwindCSS
+- PHP
+- MySQL
+- Vite
+- Pest
+- JavaScript
+- Git
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently digging into:
+- FilamentPHP
+- Livewire
+- Deepen my knowledge within VueJS
+
+![](https://komarev.com/ghpvc/?username=HelliarDennis&style=for-the-badge)
