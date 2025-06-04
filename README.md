@@ -9,23 +9,23 @@
 }
 ```
 
+🛠  **Technologies I use**<br>
+<p align="center">
+  <a href="https://github.com/HelliarDennis">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vite,vue,pinia,tailwind,php,laravel" />
+  </a>
+  <br>
+  <a href="https://github.com/HelliarDennis">
+    <img src="https://skillicons.dev/icons?i=phpstorm,github,git,cloudflare,linux,mysql" />
+  </a>
+</p>
+<br>
 
-### I have knowledge within:
-- Laravel
-- Vue.js
-- Inertia.js
-- TailwindCSS
-- PHP
-- MySQL
-- Vite
-- Pest
-- JavaScript
-- Git
-- Linux
-
-### Currently digging into:
-- FilamentPHP
-- Livewire
-- Deepen my knowledge within VueJS
+⚙️  **GitHub Analytics**<br>
+<div align="center">
+  <a href="https://github.com/HelliarDennis">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelliarDennis&count_private=true&theme=algolia&show_icons=true&hide=prs" width="510" />
+  </a>
+</div>
 
 ![](https://komarev.com/ghpvc/?username=HelliarDennis&style=for-the-badge)
