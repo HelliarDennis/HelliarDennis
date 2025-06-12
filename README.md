@@ -24,7 +24,7 @@
 ⚙️  **GitHub Analytics**<br>
 <div align="center">
   <a href="https://github.com/HelliarDennis">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelliarDennis&count_private=true&theme=algolia&show_icons=true&hide=prs" width="510" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=HelliarDennis&count_private=true&theme=dracula&show_icons=true&hide=prs" width="510" />
   </a>
 </div>
 
